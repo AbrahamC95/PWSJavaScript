@@ -8,7 +8,7 @@ body {
 
 /* Initial menu */
 .menu {
-  background: #202024 url('https://icons8.com">Icon pack by Icons8') repeat left top;
+  background: #202024 url('PWSJavaScript/icons8-pineapple-64.png') repeat left top;
   left: -285px;  /* start off behind the scenes */
   height: 100%;
   position: fixed;

@@ -18,7 +18,7 @@ body {
 /* Basic styling */
 
 .mainmenu {
-  background image: url ('PWSJavaScript/houstonskyline.png');
+  background image: url ('pwsjc/houstonskyline.png');
   height: 100%;
   -webkit-background-size: cover;
      -moz-background-size: cover;

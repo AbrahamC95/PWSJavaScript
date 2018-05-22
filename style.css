@@ -18,7 +18,7 @@ body {
 /* Basic styling */
 
 .mainmenu {
-  background image: url ('https://raw.githubusercontent.com/AbrahamC95/pwsjc/master/houstonskyline.png');
+  background image: url ('https://cdn.rawgit.com/AbrahamC95/pwsjc/master/houstonskyline.png');
   height: 100%;
   -webkit-background-size: cover;
      -moz-background-size: cover;

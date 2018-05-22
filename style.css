@@ -76,10 +76,3 @@ body {
      font-size:32px; 
 }
 
-html { 
-  background: url(pwsjc/houstonskyline.png) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}

@@ -19,7 +19,7 @@ body {
 /* Basic styling */
 
 .mainmenu {
-  background-image: url(../rhoustonskyline.png);
+  background-image: url('../rhoustonskyline.png');
   height: 100%;
   -webkit-background-size: cover;
      -moz-background-size: cover;
